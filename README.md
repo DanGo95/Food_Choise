@@ -2,6 +2,10 @@
 
 Food Choice se trata de una aplicación web donde compartir y buscar las recetas que más te gustan y/o simplemente publicar tus propias recetas.
 
+## Demo
+
+Ingrese a la dirección: http://foodchoise.herokuapp.com/ para ver una demostración del proyecto.
+
 ## Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
