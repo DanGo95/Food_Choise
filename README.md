@@ -46,7 +46,7 @@ El proyecto fue construido con las siguientes herramientas de desarrollo:
 * **[Gabriel Pereyra](https://github.com/GabiAle97)** - *Back-End / Front-End*
 * **[Nelson Sepúlveda](https://github.com/GabiAle97)** - *Back-End / Front-End*
 * **[Elías Dominguez](https://github.com/GabiAle97)** - *Back-End*
-* **[Daniel Gómez](https://github.com/GabiAle97)** - *Front-End*
+* **[Daniel Gómez](https://github.com/GabiAle97)** - *Back-End / Front-End*
 * **[Matias Piedrabuena](https://github.com/GabiAle97)** - *Documentación / Tester / Front-End*
 
 
